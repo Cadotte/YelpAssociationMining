@@ -19,7 +19,7 @@ Note: the files in data/ and results/ folders are just sample files to illustrat
 * catacteristics.py: summarize some frequent items characteristics for the Yelp dataset (e.g. max/mean transaction size, frequent itemset curves for different values of minsup, etc.)
 * frequent_categories.py: identify frequent categories/associations in all businesses
 * frequent_restaurant_categories.py: identify frequent categories/associations for restaurant businesses
-* frequent_user_categories.py: identoify frequent categories/associations for user-preferred businesses (based on reviews)
+* frequent_user_categories.py: identify frequent categories/associations for user-preferred businesses (based on reviews)
 * measure_exec_time.py measure execution time on the Yelp dataset for all 3 association mining algorithms.
 
 ## References:
